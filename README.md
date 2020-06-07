@@ -9,4 +9,5 @@ Please follow the links below:
 3. [Naming Conventions](https://github.com/anil7411/git-document/blob/master/documentation/git-naming-convention.md)
 4. [Branching Model/Workflow explained](https://github.com/anil7411/git-document/blob/master/documentation/git-branching-model.md)
 5. [Git workflow commands](https://github.com/anil7411/git-document/blob/master/documentation/git-workflow-commands.md)
-7. [Git commands](https://github.com/anil7411/git-document/blob/master/documentation/git-commands.md)
+6. [Git commands](https://github.com/anil7411/git-document/blob/master/documentation/git-commands.md)
+7. [Git Useful commands](https://github.com/anil7411/git-document/blob/master/documentation/git-useful-commands.md)
